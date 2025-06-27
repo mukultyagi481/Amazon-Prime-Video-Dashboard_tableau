@@ -1,6 +1,8 @@
 # 🎬 Amazon Prime Video Analytics Dashboard
 This Tableau dashboard project explores global content trends and performance metrics across Amazon Prime Video titles. It delivers interactive visualizations that help understand content distribution, viewer preferences, and metadata patterns like genres, ratings, durations, and release years.
 
+[Visit My Tableau](https://public.tableau.com/app/profile/mukul.kumar.tyagi/viz/Amazonprimevideo_dashboard/Dashboard1)
+
 
 # 📌 Project Overview
 This project analyzes the Amazon Prime Video dataset to uncover insights about:
